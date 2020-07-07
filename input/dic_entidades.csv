@@ -1,0 +1,33 @@
+entidad_res, nombre, grupo
+01 ,Aguascalientes,No Frontera Norte
+02 ,Baja California Norte,Frontera Norte
+03 ,Baja California Sur,No Frontera Norte
+04 ,Campeche,No Frontera Norte
+05 ,Coahuila,Frontera Norte
+06 ,Colima,No Frontera Norte
+07 ,Chiapas,No Frontera Norte
+08 ,Chihuahua,Frontera Norte
+09 ,Ciudad de México,No Frontera Norte
+10 ,Durango,No Frontera Norte
+11 ,Guanajuato,No Frontera Norte
+12 ,Guerrero,No Frontera Norte
+13 ,Hidalgo,No Frontera Norte
+14 ,Jalisco,No Frontera Norte
+15 ,Estado de México,No Frontera Norte
+16 ,Michoacán,No Frontera Norte
+17 ,Morelos,No Frontera Norte
+18 ,Nayarit,No Frontera Norte
+19 ,Nuevo León,Frontera Norte
+20 ,Oaxaca,No Frontera Norte
+21 ,Puebla,No Frontera Norte
+22 ,Querétaro,No Frontera Norte
+23 ,Quintana Roo,No Frontera Norte
+24 ,San Luis Potosí,No Frontera Norte
+25 ,Sinaloa,No Frontera Norte
+26 ,Sonora,Frontera Norte
+27 ,Tabasco,No Frontera Norte
+28 ,Tamaulipas,Frontera Norte
+29 ,Tlaxcala,No Frontera Norte
+30 ,Veracruz,No Frontera Norte
+31 ,Yucatán ,No Frontera Norte
+32 ,Zacatecas,No Frontera Norte
